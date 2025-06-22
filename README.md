@@ -17,7 +17,7 @@ cd todolist-api
 npm install
 
 # 3. รันเซิร์ฟเวอร์
-npm start
+npm run dev
 ```
 
 >  เริ่มใช้งานได้ที่: [http://localhost:3000](http://localhost:3000)

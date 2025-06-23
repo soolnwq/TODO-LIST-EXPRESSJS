@@ -11,7 +11,7 @@
 ```bash
 # 1. Clone โปรเจกต์
 git clone github.com/soolnwq/TODO-LIST-EXPRESSJS.git
-cd todolist-api
+cd TODO-LIST-EXPRESSJS
 
 # 2. ติดตั้ง dependencies
 npm install

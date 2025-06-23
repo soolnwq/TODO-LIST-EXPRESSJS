@@ -10,7 +10,7 @@
 
 ```bash
 # 1. Clone โปรเจกต์
-git clone github.com/soolnwq/TODO-LIST-EXPRESSJS.git
+git clone https://github.com/soolnwq/TODO-LIST-EXPRESSJS.git
 cd TODO-LIST-EXPRESSJS
 
 # 2. ติดตั้ง dependencies
